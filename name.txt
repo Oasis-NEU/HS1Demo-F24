@@ -1,5 +1,5 @@
 +------------------------------------------------+
-|  Please write your name here:  Quella                |
+|  Please write your name here:                  |
 +------------------------------------------------+
 
 This is a lovely demo and now you don't even know I just hacked into your computer yay
